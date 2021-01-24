@@ -38,3 +38,7 @@
 <link rel="stylesheet" href="{{ "/css/prism.css" | relURL }}"/>
 {{ end }}
 {{ partial "hooks/head-end.html" . }}
+
+{{ range .Site.Params.customCSS }}
+<link rel="stylesheet" href="{{ . | absURL}}">
+{{ end }}

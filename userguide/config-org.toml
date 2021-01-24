@@ -10,11 +10,8 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-#contentDir = "content/en"
-contentDir = "content/ja"
-#defaultContentLanguage = "en"
-#defaultContentLanguage = "ja"
-hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
+contentDir = "content/en"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -94,9 +91,6 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-
-amazonJpAffiliate = "ayabuki-22"
-
 copyright = "The Docsy Authors"
 privacy_policy = "https://policies.google.com/privacy"
 
