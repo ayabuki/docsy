@@ -1,4 +1,5 @@
-baseURL = "https://home.hiroshima-u.ac.jp/ayabuki/docsy/"
+baseURL = "/"
+# baseURL = "https://home.hiroshima-u.ac.jp/ayabuki/docsy/"
 title = "Docsy Example"
 
 enableRobotsTXT = true
