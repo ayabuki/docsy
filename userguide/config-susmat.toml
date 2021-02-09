@@ -1,5 +1,5 @@
-baseURL = "/"
-# baseURL = "http://susmat.hiroshima-u.ac.jp/docsy/"
+# baseURL = "/"
+baseURL = "https://susmat.hiroshima-u.ac.jp/docsy/"
 # baseURL = "https://home.hiroshima-u.ac.jp/ayabuki/docsy/"
 title = "Docsy Example"
 
